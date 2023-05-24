@@ -1,0 +1,165 @@
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Bookify.Web.staticwebassets.runtime.json
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Bookify.Web.exe
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Bookify.Web.deps.json
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Bookify.Web.runtimeconfig.json
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Bookify.Web.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Bookify.Web.pdb
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.csproj.AssemblyReference.cache
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.AssemblyInfoInputs.cache
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.AssemblyInfo.cs
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.csproj.CoreCompileInputs.cache
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.RazorAssemblyInfo.cache
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.RazorAssemblyInfo.cs
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\scopedcss\bundle\Bookify.Web.styles.css
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\scopedcss\projectbundle\Bookify.Web.bundle.scp.css
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.csproj.CopyComplete
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\refint\Bookify.Web.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.pdb
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.genruntimeconfig.cache
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\obj\Debug\net6.0\ref\Bookify.Web.dll
+C:\Users\devcr\source\repos\Bookify\Bookify.Web\bin\Debug\net6.0\libman.json
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\appsettings.json
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\libman.json
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Bookify.Web.staticwebassets.runtime.json
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Bookify.Web.exe
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Bookify.Web.deps.json
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Bookify.Web.runtimeconfig.json
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Bookify.Web.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Bookify.Web.pdb
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Humanizer.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.csproj.AssemblyReference.cache
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.AssemblyInfoInputs.cache
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.AssemblyInfo.cs
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.csproj.CoreCompileInputs.cache
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.RazorAssemblyInfo.cache
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.RazorAssemblyInfo.cs
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\staticwebassets\msbuild.Bookify.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Bookify.Web.props
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bookify.Web.props
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bookify.Web.props
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\scopedcss\bundle\Bookify.Web.styles.css
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\scopedcss\projectbundle\Bookify.Web.bundle.scp.css
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.csproj.CopyComplete
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\refint\Bookify.Web.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.pdb
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\Bookify.Web.genruntimeconfig.cache
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\obj\Debug\net6.0\ref\Bookify.Web.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\AutoMapper.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\AutoMapper.Collection.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Azure.Core.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Azure.Identity.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\DotNet v6.0\05. Prepare Project-20221208T223341Z-001\05. Prepare Project\Bookify\Bookify.Web\bin\Debug\net6.0\System.Memory.Data.dll

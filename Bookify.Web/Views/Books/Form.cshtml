@@ -1,0 +1,154 @@
+﻿@model BookFormViewModel
+
+@{
+    ViewData["Title"] = "Book Form ";
+}
+
+<div class="alert bg-light-primary border border-primary border-3 border-dashed d-flex justify-content-between w-100 p-5 mb-10">
+    <div class="d-flex align-items-center">
+        <div class="symbol symbol-40px me-4">
+            <div class="symbol-label fs-2 fw-semibold text-success">
+                <!--begin::Svg Icon | path: icons/duotune/general/gen002.svg-->
+                <span class="svg-icon svg-icon-2 svg-icon-primary">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path opacity="0.3" d="M21.25 18.525L13.05 21.825C12.35 22.125 11.65 22.125 10.95 21.825L2.75 18.525C1.75 18.125 1.75 16.725 2.75 16.325L4.04999 15.825L10.25 18.325C10.85 18.525 11.45 18.625 12.05 18.625C12.65 18.625 13.25 18.525 13.85 18.325L20.05 15.825L21.35 16.325C22.35 16.725 22.35 18.125 21.25 18.525ZM13.05 16.425L21.25 13.125C22.25 12.725 22.25 11.325 21.25 10.925L13.05 7.62502C12.35 7.32502 11.65 7.32502 10.95 7.62502L2.75 10.925C1.75 11.325 1.75 12.725 2.75 13.125L10.95 16.425C11.65 16.725 12.45 16.725 13.05 16.425Z" fill="currentColor" />
+                        <path d="M11.05 11.025L2.84998 7.725C1.84998 7.325 1.84998 5.925 2.84998 5.525L11.05 2.225C11.75 1.925 12.45 1.925 13.15 2.225L21.35 5.525C22.35 5.925 22.35 7.325 21.35 7.725L13.05 11.025C12.45 11.325 11.65 11.325 11.05 11.025Z" fill="currentColor" />
+                    </svg>
+                </span>
+                <!--end::Svg Icon-->
+            </div>
+        </div>
+        <!--begin::Content-->
+        <div class="d-flex flex-column pe-0 pe-sm-10">
+            <h5 class="mb-1">@(Model.Id.Equals(0) ? "Add" : "Edit")Books</h5>
+        </div>
+        <!--end::Content-->
+    </div>
+</div>
+<div class="card shadow-sm">
+    <div class="card-body ">
+        <form method="post" asp-controller="Books" enctype="multipart/form-data">
+            @if(Model?.Id>0){
+                <input type="hidden" asp-for="Id"/>
+            }
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="mb-5">
+                        <div class="form-floating mb-2">
+                            <input type="text" class="form-control" placeholder="Title" asp-for="Title" />
+                            <label asp-for="Title"></label>
+                        </div>
+                        <span asp-validation-for="Title" class="text-danger d-block"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="mb-5">
+                        <div class="form-floating mb-2">
+                            <select class="form-select" asp-for="AuthorId" asp-items="@Model.Authors">
+                                <option value="">Select Author 1</option>
+                            </select>
+                            <label asp-for="AuthorId"></label>
+                        </div>
+                        <span asp-validation-for="AuthorId" class="text-danger d-block"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="mb-5">
+                        <div class="mb-2">
+                            <select class="form-select" asp-for="SelectedCategories" asp-items="@Model.Categories">
+                                <option value="">Select Categories</option>
+                            </select> 
+                            <label asp-for="SelectedCategories"></label>
+                        </div>
+                        <span asp-validation-for="SelectedCategories" class="text-danger d-block"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="mb-5">
+                        <div class="form-floating mb-2">
+                            <input type="text" class="form-control" placeholder="Publisher" asp-for="Publisher" />
+                            <label asp-for="Publisher"></label>
+                        </div>
+                        <span asp-validation-for="Publisher" class="text-danger d-block"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="mb-5">
+                        <div class="form-floating mb-2">
+                            <input type="date" class="form-control" placeholder="Publish" asp-for="PublishingDate" />
+                            <label asp-for="PublishingDate"></label>
+                        </div>
+                        <span asp-validation-for="PublishingDate" class="text-danger d-block"></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="mb-5">
+                        <div>
+                            <img src="~/images/books/@(Model.ImageUrl is null ? "no-book.jpg" : Model.ImageUrl)" class="img-thumbnail" id="imgPreview" style="height:250px;" />
+                        </div>
+                        <div class="form-floating mb-2">
+                            <input type="file" class="form-control" placeholder="Image" asp-for="Image"
+                                   onchange="document.getElementById('imgPreview').src = Window.URL.createObjectURL(this.files[0])"  />
+                            <label asp-for="Image"></label>
+                        </div>
+                        <span asp-validation-for="Image" class="text-danger d-block"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="mb-5">
+                        <div class="form-floating mb-2">
+                            <input type="text" class="form-control" placeholder="Hall" asp-for="Hall" />
+                            <label asp-for="Hall"></label>
+                        </div>
+                        <span asp-validation-for="Hall" class="text-danger d-block"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row mb-2">
+                <div class="col">
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" checked asp-for="IsAvailabelForRental" />
+                        <label class="form-check-label" asp-for="IsAvailabelForRental"></label>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="mb-5">
+                        <div class="form-floating mb-2">
+                            <textarea class="form-control" placeholder="Description" asp-for="Description"></textarea>
+                            <label asp-for="Description"></label>
+                        </div>
+                        <span asp-validation-for="Description" class="text-danger d-block"></span>
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">
+                <span class="indicator-label">
+                    save
+                </span>
+                <span class="indicator-progress">
+                    Please wait ... <span class="spinner-border spinner-border-sm align-middle ms-2"></span>
+                </span>
+            </button>
+
+        </form>
+    </div>
+</div>
+@section Scripts
+    {
+    <partial name="_ValidationScriptsPartial" />
+}

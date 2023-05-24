@@ -1,0 +1,32 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.form-floating > .form-select{
+    padding-bottom : 0.225rem;
+}
+/*starting bootbox*/
+.bootbox-close-button{
+    position: absolute;
+    top:7px;
+    right:7px;
+    padding : 0.5rem 0.75rem;
+    z-index:1;
+    background-color:transparent;
+    border:0;
+    -webkit-appearance:none;
+}

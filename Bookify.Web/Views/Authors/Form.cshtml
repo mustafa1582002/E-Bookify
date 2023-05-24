@@ -1,0 +1,41 @@
+﻿@model AuthorFormViewModel
+@{
+    ViewData["Title"] = $"{(Model?.Id>0 ? "Edit" : "Add")} Category";
+}
+<div class="alert bg-lightprimary border boder-primary border-3 border-dashed d-flex justify-content-between">
+    <div class="d-flex align-items-center">
+        <div class="symbol symbol-40px me-4">
+            <div class=" symbol-label fs-2 fw-semibold text-success">
+                <span class="svg-icon svg-icon-2 svg-icon-primary">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none"></svg>
+                </span>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="card shadow-sm">
+    <div class="card-header">
+        <h3 class="card-title">@(Model?.Id>0 ? "Edit" : "Add") Author</h3>
+    </div>
+
+    <div class="card-body" >
+        <form method="post"asp-controller="Authors">
+            @if(Model?.Id>0){
+                <input type="hidden" asp-for="Id"/>
+            }
+            <div>
+                <div class="form-floating mb-7">
+                <input  type="text" class="form-control " placeholder="Mostafa15982002@gmail.com" asp-for="Name"/>
+                <label  asp-for="Name">Email address</label>
+                </div>
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary"> Save</button>
+        </form>
+    </div>
+</div>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+ 
